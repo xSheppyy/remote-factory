@@ -1,12 +1,27 @@
-{
- "nomi" : [{
-    
-    "Davide" : {
-      "name" : "Davide" 
-    },
-    "Valentino": {
-      "name" : "Armando" 
- }
- }
- ]   
-}
+"BMW POWERTRAIN" : {
+          "id_factory" : 1,
+          "name" : "BMW",
+          "place" : "Germany",
+          "multinational_commerce" : true,
+          "number_cars" : 45,
+          "cars_produced" : [
+              {
+                "BMW M5" : {
+                    "id_car" : 1,
+                    "factory" : "BMW",
+                    "engine": "Turbo 8-cylinder",
+                    "dimension(mm)" : 4910,
+                    "displacement" : 4395,
+                    "drive_train" : "AWD",
+                    "Mileage_Highway" : null,
+                    "power_steereng" : true,
+                    "sedan_features" : {
+                        "airbags" : true,
+                        "abs": true,
+                        "power_outlets" : 12,
+                        "Brake_Assist" : 4
+                 }
+              }
+            }
+          ] 
+      }
