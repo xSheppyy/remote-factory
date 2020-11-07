@@ -1,12 +1,13 @@
-"BMW POWERTRAIN":{
+{
+   "Aziende" :[{
+      "BMW POWERTRAIN":{
           "id_factory" : 1,
           "name" : "BMW",
           "place" : "Germany",
           "multinational_commerce" : true,
           "number_cars" : 45,
-          "cars_produced" : [
-              {
-                "BMW M5" : {
+          "cars_produced" :[{
+                "BMW M5" :{
                     "id_car" : 1,
                     "factory" : "BMW",
                     "engine": "Turbo 8-cylinder",
@@ -20,8 +21,10 @@
                         "abs": true,
                         "power_outlets" : 12,
                         "Brake_Assist" : 4
-                 }
+                    }
               }
             }
-          ] 
+          ]
+
+          
       }
