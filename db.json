@@ -1,88 +1,49 @@
 {
-"Aziende" : [
-                {
-            "bmw powertrain" : {
-            "id_factory" : 1,
-            "name" : "BMW",
-            "place" : "Germany",
-            "multinational_commerce" : true,
-            "cars_produced" : [
-                {
+    "Ferrari" : [
+                    {
                         "id_car" : 1,
-                        "name": "bmw m5",
-                        "factory" : "BMW",
-                        "engine": "Turbo 8-cylinder",
-                        "dimension(mm)" : 4910,
-                        "drive_train" : "AWD"
+                        "name": "Ferrari LaFerrari",
+                        "factory" : "Ferrari",
+                        "engine": "Turbo 10-Hybrid Ers",
+                        "dimension(mm)" : 5000,
+                        "drive_train" : "RWD"
+                    },
+                    {
+                        "id_car" : 2,
+                        "name": "Ferrari GTO",
+                        "factory" : "Ferrari",
+                        "engine": "Twin Turbo V6",
+                        "dimension(mm)" : 4939,
+                        "drive_train" : "RWD"
+                    },
+                    {
+                        "id_car" : 3,
+                        "name": "Ferrari 488",
+                        "factory" : "FERRARI",
+                        "engine": "Twin Turbo V8 3.9 litre",
+                        "dimension(mm)" : 4568,
+                        "drive_train" : "RWD"
+                    },
+                    {
+                        "id_car" : 4,
+                        "name": "Ferrari California",
+                        "factory" : "FERRARI",
+                        "engine": "Twin Turbo V8 3.9 litre",
+                        "dimension(mm)" : 4568,
+                        "drive_train" : "RWD"
+                    },
+                    {
+                        "id_car" : 5,
+                        "name": "Ferrari FXXK",
+                        "factory" : "FERRARI",
+                        "engine": "Twin Turbo V10 a 90°",
+                        "dimension(mm)" : 5500,
+                        "drive_train" : "RWD"
                     }
-            ]     
-      }
-    },
-    {
-      "audi sport" : {
-        "id_factory" : 2,
-        "name" : "AUDI",
-        "place" : "Germany",
-        "multinational_commerce" : true,
-        "cars_produced" : [
-            {
-                    
-                    "id_car" : 2,
-                    "name": "Audi rs6",
-                    "factory" : "AUDI",
-                    "engine": "Twin Turbo V8",
-                    "dimension(mm)" : 4939,
-                    "drive_train" : "4WD"
-            }
-        ]
 
-    }
-    },{
-    "scuderia ferrari" : {
-        "id_factory" : 3,
-        "name" : "FERRARI",
-        "place" : "Italy",
-        "multinational_commerce" : true,
-        "cars_produced" : [
-            {
-                    "id_car" : 3,
-                    "name": "Ferrari 488",
-                    "factory" : "FERRARI",
-                    "engine": "Twin Turbo V8 3.9 litre",
-                    "dimension(mm)" : 4568,
-                    "drive_train" : "RWD"
-            },
-            {
-                    "id_car" : 4,
-                    "name": "Ferrari 458",
-                    "factory" : "FERRARI",
-                    "engine": "Twin Turbo V8 a 90°",
-                    "dimension(mm)" : 4939,
-                    "drive_train" : "RWD"
-            }   
-            
-        ]
-
-    }
-    },{
-    "fiat" : {
-        "id_factory" : 3,
-        "name" : "Fiat",
-        "place" : "Italy-Usa",
-        "multinational_commerce" : true,
-        "cars_produced" : [
-            {
-                    "id_car" : 5,
-                    "name" : "fiat Panda",
-                    "factory" : "FIAT",
-                    "engine": "Motore aspirato a 3 cilindri",
-                    "dimension(mm)" : 3653,
-                    "drive_train" : "4WD"
-    
-            }
-        ]
-
-    }
+    ]     
 }
-]
-}
+
+                        
+                        
+ 
