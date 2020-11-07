@@ -73,7 +73,7 @@
         "cars_produced" : [
             {
                     "id_car" : 5,
-                    "name" : "fiat Panda"
+                    "name" : "fiat Panda",
                     "factory" : "FIAT",
                     "engine": "Motore aspirato a 3 cilindri",
                     "dimension(mm)" : 3653,
