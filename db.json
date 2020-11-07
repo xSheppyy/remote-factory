@@ -8,8 +8,8 @@
             "multinational_commerce" : true,
             "cars_produced" : [
                 {
-                    "BMW M5" : {
                         "id_car" : 1,
+                        "name": "bmw m5",
                         "factory" : "BMW",
                         "engine": "Turbo 8-cylinder",
                         "dimension(mm)" : 4910,
@@ -27,8 +27,9 @@
         "multinational_commerce" : true,
         "cars_produced" : [
             {
-                "AUDI RS6" : {
+                    
                     "id_car" : 2,
+                    "name": "Audi rs6",
                     "factory" : "AUDI",
                     "engine": "Twin Turbo V8",
                     "dimension(mm)" : 4939,
@@ -46,8 +47,8 @@
         "multinational_commerce" : true,
         "cars_produced" : [
             {
-                "FERRARI 488" : {
                     "id_car" : 3,
+                    "name": "Ferrari 488",
                     "factory" : "FERRARI",
                     "engine": "Twin Turbo V8 3.9 litre",
                     "dimension(mm)" : 4568,
@@ -55,8 +56,8 @@
                 }
             },
             {
-                "FERRARI 458": {
                     "id_car" : 4,
+                    "name": "Ferrari 458",
                     "factory" : "FERRARI",
                     "engine": "Twin Turbo V8 a 90°",
                     "dimension(mm)" : 4939,
@@ -75,8 +76,8 @@
         "multinational_commerce" : true,
         "cars_produced" : [
             {
-                "FIAT PANDA": {
                     "id_car" : 5,
+                    "name" : "fiat Panda"
                     "factory" : "FIAT",
                     "engine": "Motore aspirato a 3 cilindri",
                     "dimension(mm)" : 3653,
