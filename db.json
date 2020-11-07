@@ -1,28 +1,9 @@
-      "AUDI SPORT" : {
-        "id_factory" : 2,
-        "name" : "AUDI",
-        "place" : "Germany",
-        "multinational_commerce" : true,
-        "number_cars" : 70,
-        "cars_produced" : [
-            {
-                "AUDI RS6" : {
-                    "id_car" : 2,
-                    "factory" : "AUDI",
-                    "engine": "Twin Turbo V8",
-                    "dimension(mm)" : 4939,
-                    "displacement" : 3996,
-                    "drive_train" : "4WD",
-                    "Mileage_Highway" : null,
-                    "power_steereng" : true,
-                    "sedan_features" : {
-                        "airbags" : true,
-                        "abs": true,
-                        "power_outlets" : 10,
-                        "Brake_Assist" : 2
-                    }
-            }
-        }
-        ]
+ "AUDI SPORT":{
+      "id_factory":2,
+      "name":"AUDI",
+      "place":"Germany",
+      "multinational_commerce":true,
+      "number_cars":70,
+    
 
     }
