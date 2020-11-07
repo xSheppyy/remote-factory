@@ -6,8 +6,8 @@
           "place" : "Germany",
           "multinational_commerce" : true,
           "number_cars" : 45,
-          "cars_produced" :[{
-                "BMW M5" :{
+          "cars_produced":[{
+                "BMW M5":{
                     "id_car" : 1,
                     "factory" : "BMW",
                     "engine": "Turbo 8-cylinder",
@@ -16,7 +16,7 @@
                     "drive_train" : "AWD",
                     "Mileage_Highway" : null,
                     "power_steereng" : true,
-                    "sedan_features" : {
+                    "sedan_features":{
                         "airbags" : true,
                         "abs": true,
                         "power_outlets" : 12,
