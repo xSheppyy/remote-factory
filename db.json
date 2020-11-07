@@ -15,7 +15,6 @@
                         "dimension(mm)" : 4910,
                         "drive_train" : "AWD"
                     }
-                }
             ]     
       }
     },
@@ -35,7 +34,6 @@
                     "dimension(mm)" : 4939,
                     "drive_train" : "4WD"
             }
-        }
         ]
 
     }
@@ -53,7 +51,6 @@
                     "engine": "Twin Turbo V8 3.9 litre",
                     "dimension(mm)" : 4568,
                     "drive_train" : "RWD"
-                }
             },
             {
                     "id_car" : 4,
@@ -62,7 +59,6 @@
                     "engine": "Twin Turbo V8 a 90°",
                     "dimension(mm)" : 4939,
                     "drive_train" : "RWD"
-                }
             }   
             
         ]
@@ -83,7 +79,6 @@
                     "dimension(mm)" : 3653,
                     "drive_train" : "4WD"
     
-            }
             }
         ]
 
